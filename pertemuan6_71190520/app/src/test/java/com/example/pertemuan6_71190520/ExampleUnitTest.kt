@@ -1,4 +1,4 @@
-package com.example.pertemuan6_71190520
+package com.example.pertemuan6_711904520
 
 import org.junit.Test
 
